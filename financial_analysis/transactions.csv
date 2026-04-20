@@ -1,0 +1,36 @@
+date,account,description,amount,direction,category,source_file,notes
+2025-02-03,9118,Online Realtime Transfer To Spend - Everyday Spending 4382 (Trn 23598949751),5985.00,out,Inter-account transfer (out),20250331-statements-9118-.pdf,Moved funds from business checking to Spend-Everyday Spending account 4382 (likely personal/spending account)
+2025-07-01,9118,Online Transfer From Chk ...3501 (Trn 25325629701),100.00,in,Inter-account transfer (in),20250829-statements-9118-.pdf,Small deposit to meet $2000 MSF-waiver activity threshold
+2025-08-21,9118,PayPal Acctverify deposit (Ind Name: Christopher Hydrick Trn 2334218603Tc),0.19,in,PayPal account verification,20250930-statements-9118-.pdf,Classic PayPal linking micro-deposit
+2025-08-21,9118,PayPal Acctverify deposit (Ind Name: Christopher Hydrick Trn 2334218602Tc),0.11,in,PayPal account verification,20250930-statements-9118-.pdf,Classic PayPal linking micro-deposit
+2025-08-21,9118,PayPal Acctverify withdrawal (Ind Name: Christopher Hydrick Trn 2332436815Tc),0.30,out,PayPal account verification,20250930-statements-9118-.pdf,PayPal verification - micro-withdraw of the sum of the two verify deposits
+2025-09-05,9118,Online Transfer From Chk ...3501 (Trn 26109844489),1500.00,in,Inter-account transfer (in),20251031-statements-9118-.pdf,Inbound from linked checking 3501
+2025-12-08,9118,Online Transfer From Chk ...3318 (Trn 27238083382),3000.00,in,Inter-account transfer (in),20250422-statements-3373-.pdf,MISNAMED FILE - actually the Dec 2025 checking statement. Inbound from linked checking 3318
+2025-04-14,3373,SQSP* INV177821122 SQUARESPACE.C NY (724.88 THB @ 0.029963580),21.72,out,Software & Subscriptions,20250522-statements-3373-.pdf,Squarespace monthly website subscription billed in Thai Baht
+2025-04-14,3373,FOREIGN TRANSACTION FEE (Squarespace THB),0.65,out,Bank/Card Fees,20250522-statements-3373-.pdf,3% FX fee on Squarespace THB charge
+2025-05-14,3373,SQSP* INV181954360 SQUARESPACE.C NY (724.88 THB @ 0.030225692),21.91,out,Software & Subscriptions,20250722-statements-3373-.pdf,Squarespace monthly
+2025-05-15,3373,FOREIGN TRANSACTION FEE (Squarespace THB),0.65,out,Bank/Card Fees,20250722-statements-3373-.pdf,
+2025-05-16,3373,Payment Thank You-Mobile (credit card payment from linked account),44.93,in,Credit card payment (from unknown account),20250722-statements-3373-.pdf,Inbound payment on credit card; funding source not in our data (likely 3318)
+2025-06-14,3373,SQSP* INV186057480 SQUARESPACE.C NY (724.88 THB @ 0.031012029),22.48,out,Software & Subscriptions,20250822-statements-3373-.pdf,Squarespace monthly
+2025-06-15,3373,FOREIGN TRANSACTION FEE (Squarespace THB),0.67,out,Bank/Card Fees,20250822-statements-3373-.pdf,
+2025-06-17,3373,OPENAI OPENAI.COM CA,5.32,out,Software & Subscriptions,20250822-statements-3373-.pdf,OpenAI API usage
+2025-06-17,3373,"REPLIT, INC. REPLIT.COM CA",26.65,out,Software & Subscriptions,20250822-statements-3373-.pdf,Replit developer platform monthly
+2025-07-14,3373,SQSP* INV190016762 SQUARESPACE.C NY (724.88 THB @ 0.030956848),22.44,out,Software & Subscriptions,20250922-statements-3373-.pdf,Squarespace monthly
+2025-07-15,3373,FOREIGN TRANSACTION FEE (Squarespace THB),0.67,out,Bank/Card Fees,20250922-statements-3373-.pdf,
+2025-07-16,3373,AUTOMATIC PAYMENT - THANK YOU,55.12,in,Credit card payment (from unknown account),20250922-statements-3373-.pdf,CC autopay inbound; funding source not in data
+2025-07-17,3373,"REPLIT, INC. REPLIT.COM CA",26.65,out,Software & Subscriptions,20250922-statements-3373-.pdf,Replit monthly
+2025-08-14,3373,SQSP* WEBSIT#194340094 SQUARESPACE.C NY (724.88 THB @ 0.031053415),22.51,out,Software & Subscriptions,20251022-statements-3373-.pdf,Squarespace monthly
+2025-08-15,3373,AUTOMATIC PAYMENT - THANK YOU,49.76,in,Credit card payment (from unknown account),20251022-statements-3373-.pdf,CC autopay inbound
+2025-08-15,3373,FOREIGN TRANSACTION FEE (Squarespace THB),0.67,out,Bank/Card Fees,20251022-statements-3373-.pdf,
+2025-08-17,3373,"REPLIT, INC. REPLIT.COM CA",26.65,out,Software & Subscriptions,20251022-statements-3373-.pdf,Replit monthly
+2025-08-18,3373,PAYPAL *CJONESMEDIA 402-935-7733 CA,3000.00,out,Contractor / Professional Services,20251022-statements-3373-.pdf,PayPal payment to CJONESMEDIA (402 area code = Omaha NE) - content/media vendor
+2025-09-14,3373,SQSP* WEBSIT#200933309 SQUARESPACE.C NY (724.88 THB @ 0.031605231),22.91,out,Software & Subscriptions,20251122-statements-3373-.pdf,Squarespace monthly
+2025-09-15,3373,FOREIGN TRANSACTION FEE (Squarespace THB),0.68,out,Bank/Card Fees,20251122-statements-3373-.pdf,
+2025-09-16,3373,AUTOMATIC PAYMENT - THANK YOU,3049.83,in,Credit card payment (from unknown account),20251122-statements-3373-.pdf,CC autopay
+2025-09-17,3373,PAYPAL *CJONESMEDIA 402-935-7733 CA,2410.00,out,Contractor / Professional Services,20251122-statements-3373-.pdf,
+2025-09-17,3373,"REPLIT, INC. REPLIT.COM CA",26.65,out,Software & Subscriptions,20251122-statements-3373-.pdf,Replit monthly
+2025-10-13,3373,PAYPAL *CJONESMEDIA 402-935-7733 CA,2710.00,out,Contractor / Professional Services,20251222-statements-3373-.pdf,
+2025-10-14,3373,SQSP* WEBSIT#205216080 SQUARESPACE.C NY (724.88 THB @ 0.030791303),22.32,out,Software & Subscriptions,20251222-statements-3373-.pdf,Squarespace monthly
+2025-10-14,3373,FOREIGN TRANSACTION FEE (Squarespace THB),0.66,out,Bank/Card Fees,20251222-statements-3373-.pdf,
+2025-10-16,3373,AUTOMATIC PAYMENT - THANK YOU,2460.24,in,Credit card payment (from unknown account),20251222-statements-3373-.pdf,CC autopay
+2025-10-17,3373,"REPLIT, INC. REPLIT.COM CA",26.65,out,Software & Subscriptions,20251222-statements-3373-.pdf,Replit monthly
